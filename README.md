@@ -17,3 +17,7 @@ I always update my system first!
 
     sudo apt update
     sudo apt upgrade
+
+Install terminator
+    sudo apt install terminator
+  
