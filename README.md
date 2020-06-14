@@ -19,5 +19,11 @@ I always update my system first!
     sudo apt upgrade
 
 Install terminator
+
     sudo apt install terminator
   
+Install chromium
+
+    sudo apt install chromium
+    
+ Install powerlines
